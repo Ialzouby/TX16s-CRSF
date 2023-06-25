@@ -1,0 +1,69 @@
+Labels:
+  "Favorites":
+Sort: 2
+Models:
+  model1.yml:
+    hash: "fe1d0000502cfd0c"
+    name: "Aero"
+    mod0type: 6
+    mod0rf: 13
+    labels: ""
+    bitmap: "Flug62.jpg"
+    lastopen: 1013823601
+  model2.yml:
+    hash: "e71a0000502c000d"
+    name: "DELTA"
+    mod0type: 6
+    mod0rf: 14
+    labels: ""
+    bitmap: "Delta1.jpg"
+    lastopen: 0
+  model3.yml:
+    hash: "6e260000502c000d"
+    name: "OMPHOBBY M2"
+    mod0type: 6
+    mod0rf: 20
+    labels: ""
+    bitmap: "OH-M2-1.jpg"
+    lastopen: 0
+  model5.yml:
+    hash: "15250000502c000d"
+    name: "HELI"
+    mod0type: 6
+    mod0rf: 20
+    labels: ""
+    bitmap: "Hubi57.jpg"
+    lastopen: 0
+  model6.yml:
+    hash: "db230000502c000d"
+    name: "HrUky Moblite6"
+    mod0type: 6
+    mod0rf: 2
+    labels: ""
+    bitmap: ""
+    lastopen: 0
+  model7.yml:
+    hash: "d01f0000502cda7e"
+    name: "model7"
+    labels: ""
+    bitmap: ""
+    lastopen: 0
+  model8.yml:
+    hash: "3a230000c32cb765"
+    name: "QUAD"
+    mod0type: 6
+    mod0rf: 2
+    mod1type: 5
+    labels: ""
+    bitmap: "v250.png"
+    lastopen: 1023561711
+  model9.yml:
+    hash: "3a230000cc2c3d70"
+    name: "tiny"
+    mod0type: 6
+    mod0rf: 2
+    mod1type: 5
+    labels: ""
+    bitmap: "v250.png"
+    lastopen: 1023890722
+
